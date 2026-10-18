@@ -12,6 +12,6 @@ La hipotesis inicial que comenzo este proyecto fue:
 
 Tras esta hipotesis hice una lluvia de ideas y respondi a varias preguntas, las preguntas me llevaron a hacer una encuesta a mis personas cercanas relacionadas con el tema del proyecto, los videojuegos.  
   
-Esta encuesta, la cual te invito a que le des un vistazo, la puedes encontrar [aqui](https://docs.google.com/forms/d/e/1FAIpQLSe26Et3uvkNs5mUzu4qOml_tbNg4Vq6aK3RqqA6b4Zgca_rbQ/viewform?usp=sharing&ouid=114390182737670734859).    
+Esta encuesta, la cual te invito a que le des un vistazo a los resultados, la puedes encontrar [aqui](https://docs.google.com/spreadsheets/d/1g2nSU0fiEUSPu0I42e9nOrjyJDGKkbX4/edit?usp=drive_link&ouid=114390182737670734859&rtpof=true&sd=true).    
   
 Ver los datos resultantes me llevo a darme cuenta que las personas no quieren conseguir todos los logros para lucir o fardar de ellos. Si no que les interesa divertirse en el proceso y sobretodo, conseguir objetos o cosméticos detro del juego como recompensa, lo que abre una posibilidad en la web y posiblemente cambiar un poco el rumbo.
