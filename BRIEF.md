@@ -2,7 +2,8 @@
 ## Indice
 [Introduccion](#Introduccion)  
 [El problema que resuelve la aplicacion](#El-problema-que-resuelve-la-aplicacion)  
-[El Alcance](#El-Alcance)
+[El Alcance](#El-Alcance)  
+[Las Personas](#Las-Personas)
 ## Introduccion 
 Buenas, aquí iré construyendo el BRIEF paso a paso e iré contando mi idea de proyecto, espero que te guste.
 
@@ -17,7 +18,7 @@ Esta encuesta, la cual te invito a que le des un vistazo a los resultados, la pu
   
 Ver los datos de la encuesta me hizo darme cuenta que las personas no quieren conseguir todos los logros para lucir o fardar de ellos. Sino que les interesa divertirse en el proceso y sobretodo, conseguir objetos o cosméticos dentro del juego como recompensa (7,6 % vs 92,4% ), lo que nos indica que deberíamos orientar la web un poco. 
 
-## El alcance 
+## El Alcance 
 
 Para decidir qué se queda dentro y que no en esta primera versión, me he fijado en tres aspectos: si la persona principal la necesita para su tarea más importante, si se puede construir con el tiempo que tengo, y si existe otra forma de resolverla mientras tanto.
 
@@ -31,3 +32,12 @@ Para decidir qué se queda dentro y que no en esta primera versión, me he fijad
 - **Expositor de logros en el perfil de usuario:** Se descarta porque la persona principal no lo necesita para su tarea.
 - **Sistema de favoritos y personalización de perfil:** Se descarta ya que no es vital para el funcionamiento básico del MVP.
 - **Recomendaciones automatizadas por historial:** Se descarta porque excede el tiempo de desarrollo.
+
+# Las Personas  
+El diseño de la aplicación se fundamenta en dos perfiles basados en las encuentas:
+
+[Abraham (Persona Principal)](https://www.figma.com/board/LPBniBURjdYxFjjNCXAl2E/Proyecto-Dise%C3%B1o?node-id=60-2925&t=pF003PetDC6fHAxV-4): 
+Estudiante de 18-21 años que juega a diario en PC; representa el recorrido principal para localizar rápidamente guías y filtrar logros por recompensas.  
+
+[Alejandro (Persona Secundaria / Caso Límite)](https://www.figma.com/board/LPBniBURjdYxFjjNCXAl2E/Proyecto-Dise%C3%B1o?node-id=61-3167&t=pF003PetDC6fHAxV-4):
+Estudiante y trabajador de 22-25 años con tiempo limitado que juega los fines de semana, representa la necesidad de una navegación rápida y sin saturación de contenido.
