@@ -3,7 +3,9 @@
 [Introduccion](#Introduccion)  
 [El problema que resuelve la aplicacion](#El-problema-que-resuelve-la-aplicacion)  
 [El Alcance](#El-Alcance)  
-[Las Personas](#Las-Personas)
+[Las Personas](#Las-Personas)  
+[Criterios de éxito](#Criterios-de-Exito)  
+[Restricciones del Proyecto](#Restricciones-del-Proyecto)  
 ## Introduccion 
 Buenas, aquí iré construyendo el BRIEF paso a paso e iré contando mi idea de proyecto, espero que te guste.
 
@@ -33,11 +35,27 @@ Para decidir qué se queda dentro y que no en esta primera versión, me he fijad
 - **Sistema de favoritos y personalización de perfil:** Se descarta ya que no es vital para el funcionamiento básico del MVP.
 - **Recomendaciones automatizadas por historial:** Se descarta porque excede el tiempo de desarrollo.
 
-# Las Personas  
+## Las Personas  
 El diseño de la aplicación se fundamenta en dos perfiles basados en las encuentas:
 
 [Abraham (Persona Principal)](https://www.figma.com/board/LPBniBURjdYxFjjNCXAl2E/Proyecto-Dise%C3%B1o?node-id=60-2925&t=pF003PetDC6fHAxV-4): 
 Estudiante de 18-21 años que juega a diario en PC; representa el recorrido principal para localizar rápidamente guías y filtrar logros por recompensas.  
 
 [Alejandro (Persona Secundaria / Caso Límite)](https://www.figma.com/board/LPBniBURjdYxFjjNCXAl2E/Proyecto-Dise%C3%B1o?node-id=61-3167&t=pF003PetDC6fHAxV-4):
-Estudiante y trabajador de 22-25 años con tiempo limitado que juega los fines de semana, representa la necesidad de una navegación rápida y sin saturación de contenido.
+Estudiante y trabajador de 22-25 años con tiempo limitado que juega los fines de semana, representa la necesidad de una navegación rápida y sin saturación de contenido.  
+
+## Criterios de éxito
+
+El éxito del diseño se evaluará comprobando las siguientes tareas directamente sobre las personas definidas:
+
+* **Abraham** puede buscar un juego, localizar los pasos para desbloquear una recompensa cosmética y añadir el logro a su run sin ayuda y en menos de un minuto.
+* **Alejandro** puede consultar el listado de logros de un juego y filtrar únicamente los que otorgan objetos útiles para una nueva partida en menos de 30 segundos.
+* **Cualquier usuario nuevo** que acceda al prototipo puede identificar para qué sirve la aplicación y completar el flujo al primer intento sin atascarse.
+  
+## Restricciones del proyecto
+
+Para asegurar que la aplicación funcione de forma óptima y sostenible en los entornos de verdad, se incorporan las siguientes medidas:
+
+- Enfoque multidispositivo : La interfaz debe adaptarse y funcionar sin pérdida de contenido en pantallas móviles estándar y de escritorio.
+- Restricción ambiental y de rendimiento (WSG 2.4): Siguiendo el criterio 2.4 de las *Web Sustainability Guidelines* del W3C, se fija un límite técnico de peso máximo transferido inferior a 500 KB por página en la carga inicial. Esto garantiza un consumo energético mínimo, reduce la huella de carbono digital y asegura tiempos de respuesta inmediatos para usuarios con conexiones inestables.
+- Diseño visual en baja fidelidad: Durante esta primera fase no se implementan estilos complejos ni tipografías definitivas, manteniéndose en escala de grises.
