@@ -71,3 +71,14 @@
   - La lista de ajustes respecto a la rúbrica (reorganizar el archivo de Figma en 5 páginas, priorizar Escritorio por el perfil de Abraham y Alejandro, ampliar objetivos táctiles en móvil a 44 x 44 px y añadir los campos obligatorios en el `CHANGELOG.md`).
 * **Qué conservé:** La organización del archivo en 5 páginas (`PORTADA`, `GUIA DE ESTILOS`, `COMPONENTES`, `WIREFRAMES`, `MOCKUPS`), la agrupación de los wireframes originales en `WIREFRAMES ORBITA 1` y la actualización de la plantilla de `CHANGELOG.md`.
 * **Qué cambié o descarté:** En `PORTADA` eliminé los bloques inferiores de estado de la plantilla para simplificarla; la elección definitiva de colores, tipografía y correcciones de jerarquía se aplazan a los Pasos 2, 3 y 4. 
+
+### 2026-11-08 · Finalización de mockups, modo oscuro, prototipo y documentación de entrega
+
+- Fecha: 2026-11-08
+- Modelo / Herramienta: Gemini 3.8 Flash
+- Motivo del uso: Resolver bloqueos con Auto layout y variables en Figma, priorizar los requisitos mínimos de la rúbrica ante el límite de entrega y redactar la base de `ORBITA2.md` y `README.md`.
+- Prompt: "Pasos para cerrar mockups en Figma con Auto layout, variables y modo oscuro antes de la entrega, y apoyo para completar ORBITA2.md, CHANGELOG.md y README.md."
+- Adjuntos: Capturas de Figma (`MOCKUPS`, `Variables`, `WIREFRAMES`, `GUIA DE ESTILOS`) y contenido de `BRIEF.md`, `CHANGELOG.md` y `README.md`.
+- Qué devolvió: Pasos de ajuste de Auto layout y variables en `MOCKUPS`, priorización de alcance según rúbrica y borrador estructurado de `ORBITA2.md` y cierre de `README.md`.
+- Qué conservé: La estructura de pasos para cerrar el happy path de escritorio, el modo oscuro mediante selector de `Semanticos`, las conexiones básicas de prototipo y las plantillas de documentación adaptadas a mis tokens reales.
+- Qué cambié o descarté: Se descartó rehacer piezas en `COMPONENTES` y la vista móvil en `MOCKUPS` por falta de tiempo, dejándolo documentado como pendiente en `ORBITA2.md`, y se verificaron manualmente los nombres de variables y enlaces finales.
